@@ -4,6 +4,7 @@ Vue.js is a progressive framework for building user interfaces A JavaScript fram
 The VUE framework system has a logical vulnerability that attackers can exploit to bypass system authentication and log in to any account.
 It can be seen that the versions involved are both 2.6. x and 2.7. x
 VUE official website:
+![image](https://github.com/bluewuyan/11vue/blob/main/photo/1.png)
 https://cn.vuejs.org/
 Fofa syntax: JS page prompts for filtering VUE framework icons and VUE framework BODY attributes
 (icon_hash="-1252041730" || icon_hash="1917028407") && body="Please enable it to continue"
